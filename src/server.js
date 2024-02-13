@@ -5,7 +5,7 @@ const express = require('express');
 const ENV = require('../config/index')
 const db = require ('./mongoDB')
 
-//inicializar express
+//inicializar express  d
 const app = express();
 
 //conexion con db mondoDB
